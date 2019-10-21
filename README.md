@@ -4,7 +4,7 @@ Factions Core
 
 This was originally being developed soley for VyriseMC, but issues happened (nothing their fault).
 
-Donkey is **NOT** a completed project, but I may complete it some day, so here it is :)
+Donkey is **NOT** a completed project, but I may complete it some day and it is usable (it could just use more features), so here it is :)
 
 This is also my first project I'm releasing :P
 
