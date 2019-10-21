@@ -1,0 +1,38 @@
+name: Donkey
+main: Donkey
+version: 1.0
+author: jaymesss
+depend:
+  - Vault
+commands:
+  createtimer:
+  logout:
+  savedata:
+  spawn:
+  starttimer:
+  nightvision:
+    aliases: [nv]
+  tnt:
+  tps:
+  ping:
+  nick:
+  realname:
+  lag:
+  stats:
+  ignore:
+  sendpurchase:
+  vote:
+  duel:
+    aliases: [1v1]
+  message:
+    aliases: [msg, tell, whisper, w, m, emessage, emsg, etell, ewhisper, ew, em]
+  reply:
+    aliases: [r, er]
+  socialspy:
+    aliases: [sspy]
+  toggleglobalchat:
+    aliases: [tgc]
+  togglepm:
+    aliases: [tpm]
+  togglesounds:
+    aliases: [ts]

@@ -4,7 +4,19 @@ Factions Core
 
 This was originally being developed soley for VyriseMC, but issues happened (nothing their fault).
 
-Donkey is **NOT** a completed project, but I may complete it some day, so here it is :).
+Donkey is **NOT** a completed project, but I may complete it some day, so here it is :)
+
+This is also my first project I'm releasing :P
+
+DEPENDENCIES:
+ - Vault
+ - SavageFactions
+ - Essentials
+ - Spigot (hehe)
+
+CREDITS:
+ - BizarreAlex (Scoreboard API)
+ - DoctorDark (User API)
 
 Features:
  - Some things are configurable (I'll make more and more configurable over time, if I decide to come back to this)

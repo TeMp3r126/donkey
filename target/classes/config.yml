@@ -1,0 +1,46 @@
+### DO NOT TOUCH ###
+setup: false
+
+### ok u can touch ###
+tnt: enabled
+server-name: VyriseMC
+server-color1: &9
+server-color2: &b
+webstore: store.vyrisemc.net
+
+### gg train ###
+gg-train: enabled
+reward-command: crates give physical Mortal 1 {player
+reward-name: &5Mortal Crate
+
+### duels (not fully tested) ###
+### Duels SHOULD work with an infinite amount of players ###
+### in an arena at once, create an issue if issues found ###
+location1:
+  x: 100
+  y: 100
+  z: 100
+  world: world
+location2:
+  x: 110
+  y: 110
+  z: 110
+  world: world
+
+### place holders ###
+### {server-name} ###
+### {color1} ###
+### {color2} ###
+### {webstore} ###
+
+messages:
+  vote:
+    -  '&8&m-------------------------------------'
+    -  '{color1}&l{server-name} &fVoting'
+    -  ' &7- {color2}https://bit.ly/vvote-1'
+    -  ' &7- {color2}https://bit.ly/vvote-2'
+    -  ' &7- {color2}https://bit.ly/vvote-3'
+    -  ' &7- {color2}https://bit.ly/vvote-4'
+    -  ''
+    -  '&7&oThanks for supporting {server-name}!'
+    -  '&8&m-------------------------------------'
